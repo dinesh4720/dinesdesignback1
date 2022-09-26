@@ -6,6 +6,9 @@ body {
   font-size: 4.4rem;
   line-height: 1.1;
 }
+li.nav-item {
+    list-style-type: none;
+}
 .display-1 > .mbr-iconfont {
   font-size: 5.5rem;
 }
